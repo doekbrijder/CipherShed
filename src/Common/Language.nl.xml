@@ -126,6 +126,7 @@
     <control lang="en" key="IDC_FAV_VOL_OPTIONS_GLOBAL_SETTINGS_BOX">Global Settings</control>
     <control lang="en" key="IDC_HK_DISMOUNT_BALLOON_TOOLTIP">Display balloon tooltip after successful hot-key dismount</control>
     <control lang="en" key="IDC_HK_DISMOUNT_PLAY_SOUND">Play system notification sound after successful hot-key dismount</control>
+    <control lang="nl" key="IDC_HK_DISMOUNT_PLAY_SOUND">Speel de system notification toon na een succesvolle hot-key dismount</control>
     <control lang="nl" key="IDC_HK_MOD_ALT">Alt</control>
     <control lang="en" key="IDC_HK_MOD_CTRL">Ctrl</control>
     <control lang="nl" key="IDC_HK_MOD_SHIFT">Shift</control>
